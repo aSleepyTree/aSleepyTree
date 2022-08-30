@@ -1,4 +1,4 @@
-<li> An undergraduate student in the department of Automation, USTC.Grade three</li>
+<li> An undergraduate student in the department of Automation, USTC.Grade four</li>
 <li> Interested in using artificial intelligence methods for image and video processing problems</li>
 <li> Know about C and Matlab;Familiar with Python.Love badminton!</li>
 
