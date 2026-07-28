@@ -4,5 +4,5 @@
 
 <li> I received my master's degree from the Department of Automation, University of Science and Technology of China in June 2026, after completing my bachelor's degree there in June 2023.</li>
 
-<li> This is my <a href="mailto:zouzhen@mail.ustc.edu.cn"target="_blank">email </a> and <a href="https://asleepytree.github.io/"target="_blank">homepage </a></li> 
+<li>  <a href="mailto:zouzhen@mail.ustc.edu.cn"target="_blank">email </a> and <a href="https://asleepytree.github.io/"target="_blank">homepage </a></li> 
 
